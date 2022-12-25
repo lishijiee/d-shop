@@ -1,0 +1,4 @@
+rootProject.name = 'd-shop'
+include 'demo-service'
+include 'demo-app'
+
